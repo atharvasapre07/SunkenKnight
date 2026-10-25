@@ -25,8 +25,8 @@ Sunken Knight follows a lone knight descending into the ruins of a drowned kingd
 |---------|----------------|
 | Move    | A / D or ← / → |
 | Jump    | Space          |
-| Attack  | [Key]          |
-| Dash    | [Key]          |
+| Attack  | Mb1          |
+| Dash    | Shift          |
 | Pause   | Esc            |
 
 ## 📸 Screenshots
@@ -55,7 +55,7 @@ Sunken Knight follows a lone knight descending into the ruins of a drowned kingd
 
 ## 📌 Status
 
-[Completed / In development – e.g. "Playable demo with X areas and Y bosses."]
+First Level Working in-game
 
 ## 👤 Author
 
